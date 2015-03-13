@@ -1,0 +1,1 @@
+We're a fan-made MMORPG which is currently being developed. This game will bring an experience similar to that of the original Pokemon games, while adding cool new features, such as online battles and trading. This is the visuals branch, which will focus on the client UI, mapsystem, and graphics.
